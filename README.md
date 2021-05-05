@@ -21,6 +21,6 @@ LinkedIN : https://www.linkedin.com/in/akshith-kumar-469857135/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit9&show_icons=true&locale=en&layout=compact" alt="akshit9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit9&show_icons=true&locale=en" alt="akshit9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit9&show_icons=true&locale=en" alt="akshit9" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit9&" alt="akshit9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit9&" alt="akshit9" /></p>
+
