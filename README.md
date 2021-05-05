@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIN
 - ⚡ Fun fact: I will tell you for sure. Get in Touch
 
--->
+Languages and Tools
+![download (3)](https://user-images.githubusercontent.com/40689141/117110231-6fafd180-ada3-11eb-8923-2badf895c18f.png)
+
