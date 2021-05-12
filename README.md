@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Akshith
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="akshithkumar-05" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshithkumar-05?trk=profile-badge">Akshith Kumar</a></div>
+              
 ![1613553238995](https://user-images.githubusercontent.com/40689141/117109546-7427ba80-ada2-11eb-9a16-4660cc7967df.jpg)
 
 
