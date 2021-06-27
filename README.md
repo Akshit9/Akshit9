@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Akshith
-![1613553238995](https://user-images.githubusercontent.com/40689141/117109546-7427ba80-ada2-11eb-9a16-4660cc7967df.jpg)
+
 
 
 Here are some ideas to get you started:
