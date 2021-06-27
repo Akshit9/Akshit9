@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Akshith
 
-https://akshit9.github.io/Akshith_Portfolio/
 
 Here are some ideas to get you started:
 
