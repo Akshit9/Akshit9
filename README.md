@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 
 Connect me :
 
-[LinkedIn](https://www.linkedin.com/in/akshith-kumar-469857135/)
-[Medium](https://akshithkumar-05.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/akshith-kumar-469857135/)
+- [Medium](https://akshithkumar-05.medium.com/)
+- [Twitter](https://twitter.com/akshitkumar1231)
 
 
 <h3 align="left">Languages and Tools:</h3>
