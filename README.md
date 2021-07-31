@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 Connect me :
 
-LinkedIN : [LinkedIn](https://www.linkedin.com/in/akshith-kumar-469857135/)
+[LinkedIn](https://www.linkedin.com/in/akshith-kumar-469857135/)
+[Medium](https://akshithkumar-05.medium.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
